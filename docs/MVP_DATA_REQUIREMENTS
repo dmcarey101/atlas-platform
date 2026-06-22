@@ -1,0 +1,100 @@
+# Atlas MVP Data Requirements
+
+## Objective
+
+Identify the minimum data required to support Atlas core workflows.
+
+---
+
+# Workflow 1: Find Representation
+
+Required Data
+
+- Lobbyist Name
+- Lobbying Firm
+- State
+- Registration Status
+- Active Clients
+- Issue Areas
+- Contact Information (if public)
+- Registration Dates
+
+---
+
+# Workflow 2: Evaluate Representation
+
+Required Data
+
+- Lobbyist
+- Firm
+- Active Clients
+- Historical Clients
+- Industry Categories
+- State Coverage
+- Estimated Cost
+- Potential Conflicts
+
+---
+
+# Workflow 3: Monitor Competitors
+
+Required Data
+
+- Client Name
+- Lobbying Firm
+- Lobbyist
+- Registration Date
+- Registration Status
+- New Registrations
+- Expired Registrations
+- State
+
+---
+
+# Workflow 4: Monitor Issues
+
+Required Data
+
+- Issue Area
+- Lobbyists
+- Firms
+- Clients
+- State
+- Registration Activity
+
+---
+
+# Workflow 5: Market Intelligence
+
+Required Data
+
+- Industry
+- State
+- Client
+- Firm
+- Estimated Spend
+- Registration Trends
+
+---
+
+# Workflow 6: Vendor Discovery
+
+Required Data
+
+- Lobbyist
+- Firm
+- Client Base
+- Industry Experience
+- Geographic Coverage
+- Estimated Cost
+- Conflict Analysis
+
+---
+
+# MVP Questions
+
+1. Which data is publicly available?
+2. Which data can be estimated?
+3. Which data must be manually curated?
+4. Which data creates the most customer value?
+5. Which data is required for launch?
